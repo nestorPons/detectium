@@ -1,2 +1,2 @@
-# detectium
+# Detectium
 Manual de la investigación privada
