@@ -1,5 +1,5 @@
 site_name: Detectium
-site_url: https://nestorpons.github.io/detectium
+site_url: https://nestorpons.github.io/detectium/site
 nav:
     - Home: index.md
     - Costas: costas.md
