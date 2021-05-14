@@ -2,6 +2,9 @@ site_name: Detectium
 site_url: https://nestorpons.github.io/detectium/site
 nav:
     - Home: index.md
-    - Costas: costas.md
+    - Legislacion: 
+        - Ley de Seguridad Privada: legislacion/lsp.md
+    - Jurisprudecia: 
+        - Costas: juris/costas.md
 
-theme: material
+theme: windmill
