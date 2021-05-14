@@ -1,6 +1,7 @@
 site_name: Detectium
+site_url: https://nestorpons.github.io/detectium
 nav:
     - Home: index.md
     - Costas: costas.md
 
-theme: readthedocs
+theme: material

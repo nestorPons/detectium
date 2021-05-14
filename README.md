@@ -1,2 +1,3 @@
 # Detectium
-Manual de la investigación privada
+[Manual de la investigación privada](site/)
+
