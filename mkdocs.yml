@@ -1,0 +1,6 @@
+site_name: Detectium
+nav:
+    - Home: index.md
+    - Costas: costas.md
+
+theme: readthedocs
