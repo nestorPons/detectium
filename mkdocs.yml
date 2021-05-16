@@ -3,8 +3,11 @@ site_url: https://nestorpons.github.io/detectium/site
 nav:
     - Home: index.md
     - Legislacion: 
-        - Ley de Seguridad Privada: legislacion/lsp.md
+        - Constitución Española: leg/constitucion.md
+        - Ley de Seguridad Privada: leg/lsp.md
+        - Protección de datos: 
+            - Sistemas de videovigilancia: https://www.aepd.es/sites/default/files/2019-09/guia-videovigilancia.pdf
+            - Guia para el ciudadano: https://www.aepd.es/sites/default/files/2019-10/guia-ciudadano.pdf
     - Jurisprudecia: 
         - Costas: juris/costas.md
-
 theme: windmill
