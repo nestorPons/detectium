@@ -10,4 +10,5 @@ nav:
             - Guia para el ciudadano: https://www.aepd.es/sites/default/files/2019-10/guia-ciudadano.pdf
     - Jurisprudecia: 
         - Costas: juris/costas.md
-theme: windmill
+theme: 
+    name: windmill
