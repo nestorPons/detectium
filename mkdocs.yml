@@ -1,14 +1,19 @@
 site_name: Detectium
 site_url: https://nestorpons.github.io/detectium/site
 nav:
-    - Home: index.md
+    - Inicio: index.md
     - Legislacion: 
         - Constitución Española: leg/constitucion.md
         - Ley de Seguridad Privada: leg/lsp.md
+        - Delitos: leg/delitos.md
+        - Informes: leg/informes.md
+        - Reforma Codigo Penal: leg/cp.md
         - Protección de datos: 
             - Sistemas de videovigilancia: https://www.aepd.es/sites/default/files/2019-09/guia-videovigilancia.pdf
             - Guia para el ciudadano: https://www.aepd.es/sites/default/files/2019-10/guia-ciudadano.pdf
     - Jurisprudecia: 
         - Costas: juris/costas.md
+    - OSINT: 
+        - Framework: https://osintframework.com/
 theme: 
     name: windmill
