@@ -1,5 +1,15 @@
 site_name: Detectium
 site_url: https://nestorpons.github.io/detectium/site
+repo_url: https://github.com/nestorPons/detectium
+repo_name: detectium
+site_description: Manual de ayuda para los detectives privados
+site_author: Néstor Pons Portolés
+copyright: Licencia MIT
+
+# change directory names here
+docs_dir: docs
+site_dir: site
+
 nav:
     - Inicio: index.md
     - Legislacion: 
@@ -14,6 +24,15 @@ nav:
     - Jurisprudecia: 
         - Costas: juris/costas.md
     - OSINT: 
+        - Busqueda en foros: https://boardreader.com
+        - Informes de vehículos: https://sede.dgt.gob.es/es/vehiculos/informe-de-vehiculo
         - Framework: https://osintframework.com/
+
 theme: 
     name: windmill
+
+extra: 
+    logo: img/logo.png
+    version: v1.1.0
+    article_nav_top: false
+    history_buttons: true
