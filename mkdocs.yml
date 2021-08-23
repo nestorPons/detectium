@@ -19,17 +19,29 @@ nav:
         - Informes: leg/informes.md
         - Reforma Codigo Penal: leg/cp.md
         - Protección de datos: 
-            - Sistemas de videovigilancia: https://www.aepd.es/sites/default/files/2019-09/guia-videovigilancia.pdf
-            - Guia para el ciudadano: https://www.aepd.es/sites/default/files/2019-10/guia-ciudadano.pdf
+            - Sistemas de videovigilancia: https://www.aepd.es/sites/default/files/2019-09/guia-videovigilancia.pdf 
+            - Guia para el ciudadano: https://www.aepd.es/sites/default/files/2019-10/guia-ciudadano.pdf 
+    - Agrupaciones profesionales: 
+        - Colegio de Cataluña: https://www.collegidetectius.org/
+        - Colegio de Valencia: http://www.colegiodetectives.com/
+        - Asocicación Española: https://www.apdpe.es/
     - Jurisprudecia: 
         - Costas: juris/costas.md
+        - Garantía del informe: juris/licitud.md
     - OSINT: 
-        - Busqueda en foros: https://boardreader.com
-        - Informes de vehículos: https://sede.dgt.gob.es/es/vehiculos/informe-de-vehiculo
-        - Framework: https://osintframework.com/
-
+        - Busqueda en foros: https://boardreader.com 
+        - Informes de vehículos: https://sede.dgt.gob.es/es/vehiculos/informe-de-vehiculo 
+        - Framework: https://osintframework.com
+    - Trabajos academicos: 
+        - Blanqueo: aca/blanqueo_capitales.md
+        - La prueba: aca/prueba_blanqueo.md
+        - Informes: aca/informes.md
+    - Herramientas: 
+        - Cámaras de video: util/cam.md
 theme: 
     name: windmill
+    locale: es
+
 
 extra: 
     logo: img/logo.png
