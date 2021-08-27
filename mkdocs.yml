@@ -12,6 +12,8 @@ site_dir: site
 
 nav:
     - Inicio: index.md
+    - Jurisprudecia: juris.md
+    - Literatura: litera.md
     - Legislacion: 
         - Constitución Española: leg/constitucion.md
         - Ley de Seguridad Privada: leg/lsp.md
@@ -25,26 +27,27 @@ nav:
         - Colegio de Cataluña: https://www.collegidetectius.org/
         - Colegio de Valencia: http://www.colegiodetectives.com/
         - Asocicación Española: https://www.apdpe.es/
-    - Jurisprudecia: 
-        - Costas: juris/costas.md
-        - Garantía del informe: juris/licitud.md
+    
     - OSINT: 
         - Busqueda en foros: https://boardreader.com 
         - Informes de vehículos: https://sede.dgt.gob.es/es/vehiculos/informe-de-vehiculo 
-        - Framework: https://osintframework.com
+        - Framework: https://nestorpons.github.io/OSINT-Framework/public/
     - Trabajos academicos: 
         - Blanqueo: aca/blanqueo_capitales.md
         - La prueba: aca/prueba_blanqueo.md
         - Informes: aca/informes.md
     - Herramientas: 
         - Cámaras de video: util/cam.md
+    
 theme: 
     name: windmill
     locale: es
-
 
 extra: 
     logo: img/logo.png
     version: v1.1.0
     article_nav_top: false
     history_buttons: true
+
+extra_css:
+  - assets/css/styles.css

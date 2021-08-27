@@ -1,0 +1,16 @@
+/*Tarjetas*/
+.col {
+    display: inline-flex;
+}
+
+div.card {
+    margin: 1rem;
+    padding: 2rem;
+    width: 18rem;
+    border: 1px solid #999;
+    border-radius: 25px;
+}
+
+div.card:hover {
+    border-color: #333;
+}

@@ -1,4 +1,4 @@
-# Documentación Detective Privado
+# Manual del Detective Privado
 
 ## Commands
 
