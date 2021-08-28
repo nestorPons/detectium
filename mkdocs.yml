@@ -17,7 +17,6 @@ theme:
     search_index_only: true
     include_search_page: true
 
-
 extra: 
     logo: img/logo.png
     version: v1.1.1
@@ -45,12 +44,11 @@ pages:
         - Colegio de Cataluña: https://www.collegidetectius.org/
         - Colegio de Valencia: http://www.colegiodetectives.com/
         - Asocicación Española: https://www.apdpe.es/
-    
     - OSINT: 
         - Busqueda en foros: https://boardreader.com 
         - Informes de vehículos: https://sede.dgt.gob.es/es/vehiculos/informe-de-vehiculo 
         - Framework: https://nestorpons.github.io/OSINT-Framework/public/
-    
+        - CENDOJ: https://www.poderjudicial.es/search/ 
     - Herramientas: 
         - Cámaras de video: util/cam.md
     
