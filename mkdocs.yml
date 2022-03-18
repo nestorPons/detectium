@@ -1,9 +1,6 @@
 site_name: Detectium
 site_url: https://nestorpons.github.io/detectium/site
 site_description: Manual de ayuda para los detectives privados
-
-repo_url: https://github.com/nestorPons/detectium
-repo_name: detectium
 site_author: Néstor Pons Portolés
 copyright: Licencia MIT
 
